@@ -184,6 +184,7 @@ padding-top: 30px;
     .Header{
         flex-direction: column;
         height: auto;
+        text-align: center;
         padding: 10px 0;
     }
 
@@ -191,11 +192,13 @@ padding-top: 30px;
         margin: 5px 0;
         width: 100%;
         justify-content: center;
+        text-align: center;
     }
 
     .right-section{
         flex-direction: column;
         gap: 10px;
+
     }
 
     .all{
